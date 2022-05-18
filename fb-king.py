@@ -68,9 +68,9 @@ class Main:
 
 \033[1;90m══════════════════════════════════════════════════
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK  : Mahin Ahmed
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB GROUP   : BLACK MAFIA TEAM  
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB       : FB-KING
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING   : ABLAMI KORBA TO THAP HOBE 
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB GROUP  : BLACK MAFIA TEAM  
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB    : FB-KING
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING   : \033[1;91mABLAMI KORBA TO THAP HOBE 
 \033[1;90m══════════════════════════════════════════════════
     """)
 		print("%s [%s•%s] %sTOOL NAME : %sOld IDS Cracker"%(G,R,G,B,G))
