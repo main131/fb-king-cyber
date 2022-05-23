@@ -1,6 +1,6 @@
-# Encrypted by OKENWA BRIGHT
-# Whatsapp +2347061758885 
-# Github- https://github.com/Okenwa24
+# Encrypted by Mahin Ahmed
+# Whatsapp +01919927935 
+# Team black mafia 
 
 exec("".join(map(chr,[int("".join(str({'😀': 0, '😁': 3, '😂': 6, '😃': 1, '😄': 2, '😅': 4, '😉': 7, '😊': 8, '😛': 9, '🤣': 5}[i]) for i in x.split())) for x in
 "😊 😉  😁 😄  😂 😃  😁 😄  😁 😛  😛 😄  😅 😊  🤣 😃  🤣 😃  😛 😃  🤣 😉  🤣 🤣  🤣 😛  😅 😛  \
